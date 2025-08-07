@@ -1,4 +1,4 @@
-package me.shinsunyoung.springbootdeveloper;
+package me.shinsunyoung.springbootdeveloper.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import me.shinsunyoung.springbootdeveloper.domain.Article;
